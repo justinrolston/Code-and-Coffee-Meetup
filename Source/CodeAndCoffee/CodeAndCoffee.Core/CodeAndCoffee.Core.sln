@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAndCoffee.Core", "CodeAndCoffee.Core\CodeAndCoffee.Core.csproj", "{5FB15C70-1592-490C-BAE7-48079662E5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAndCoffee.Tests", "..\CodeAndCoffee.Tests\CodeAndCoffee.Tests.csproj", "{FB3F1E70-395A-458B-B0ED-A5CD2035F6FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB15C70-1592-490C-BAE7-48079662E5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB15C70-1592-490C-BAE7-48079662E5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB15C70-1592-490C-BAE7-48079662E5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB15C70-1592-490C-BAE7-48079662E5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3F1E70-395A-458B-B0ED-A5CD2035F6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3F1E70-395A-458B-B0ED-A5CD2035F6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3F1E70-395A-458B-B0ED-A5CD2035F6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3F1E70-395A-458B-B0ED-A5CD2035F6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
