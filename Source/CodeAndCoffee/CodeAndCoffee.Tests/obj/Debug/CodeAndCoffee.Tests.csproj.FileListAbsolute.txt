@@ -1,0 +1,13 @@
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\CodeAndCoffee.Tests.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\CodeAndCoffee.Tests.pdb
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\Dimebrain.TweetSharp.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\Moq.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\NBehave.Framework.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\Ninject.Core.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\nunit.core.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\bin\Debug\Dimebrain.TweetSharp.xml
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\obj\Debug\CodeAndCoffee.Tests.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Tests\obj\Debug\CodeAndCoffee.Tests.pdb

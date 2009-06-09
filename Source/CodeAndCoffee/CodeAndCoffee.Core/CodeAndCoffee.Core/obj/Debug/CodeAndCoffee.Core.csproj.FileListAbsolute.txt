@@ -1,0 +1,8 @@
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Core\CodeAndCoffee.Core\bin\Debug\CodeAndCoffee.Core.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Core\CodeAndCoffee.Core\bin\Debug\CodeAndCoffee.Core.pdb
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Core\CodeAndCoffee.Core\bin\Debug\Dimebrain.TweetSharp.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Core\CodeAndCoffee.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Core\CodeAndCoffee.Core\bin\Debug\Dimebrain.TweetSharp.xml
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Core\CodeAndCoffee.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Core\CodeAndCoffee.Core\obj\Debug\CodeAndCoffee.Core.dll
+C:\Documents and Settings\justin\Code-and-Coffee-Meetup\Source\CodeAndCoffee\CodeAndCoffee.Core\CodeAndCoffee.Core\obj\Debug\CodeAndCoffee.Core.pdb
